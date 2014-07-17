@@ -1,4 +1,7 @@
 Animate-Your-Name
 =================
 
-tạo tên sinh động với code jquery
+Tạo tên sinh động với code JavaScript.
+
+document.wirte( "<name>" );  ---> hiển thị name
+
